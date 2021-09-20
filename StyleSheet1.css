@@ -1,0 +1,19 @@
+.restart {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    padding: 10px 14px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: Calibri;
+    margin-left: 200px;
+    margin-top: 5px;
+    display:block;
+}
+
+    .restart:hover {
+        background-color: black;
+        color: white;
+        font-family: Calibri;
+    }
